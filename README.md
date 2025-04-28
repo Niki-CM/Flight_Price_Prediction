@@ -58,35 +58,25 @@ Joblib (for model saving)
 ## **Model Building and Evaluation**
 ![image](https://github.com/user-attachments/assets/e98e8015-3a92-44a5-9a3d-f5f99f72eb7f)
 
-Model	MAE	MSE	RMSE	R2 Score
-Random Forest Regressor	X	X	X	X
-Decision Tree Regressor	X	X	X	X
-XGBoost Regressor	X	X	X	X
-(Fill the X's with your real numbers after evaluation.
 
-✅ Random Forest Regressor performed the best among the tested models.
+* Random Forest Regressor performed the best among the tested models.
 
-🗂️ Final Deliverables
-Trained Flight Price Prediction model (flight_price_model.pkl)
+##  **Final Deliverables**
+* Trained Flight Price Prediction model (flight_price_model.pkl)
+* Project Notebook (Flight_Price_Prediction.ipynb)
 
-Project Notebook (Flight_Price_Prediction.ipynb)
+## **Future Scope**
+* Integrate Deep Learning (Neural Networks) for improved predictions.
+* Incorporate real-time flight data like weather, events, holidays.
+* Build a web app using Flask/Streamlit for live predictions.
 
-📈 Future Scope
-Integrate Deep Learning (Neural Networks) for improved predictions.
-
-Incorporate real-time flight data like weather, events, holidays.
-
-Build a web app using Flask/Streamlit for live predictions.
-
-🙌 Acknowledgments
-Thanks to Kaggle (or your data source) for providing the dataset.
-
+Acknowledgments
+Thanks to Kaggle  for providing the dataset.
 Inspired by real-world airline ticketing use cases.
 
-🚀 Quick Preview
-(OPTIONAL: If you want, you can add a simple EDA plot image or a model architecture image here.)
 
-📌 How to Run Locally
+
+How to Run Locally
 Clone this repo:
 
 bash
